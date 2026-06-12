@@ -212,8 +212,8 @@ TOXIC-COMMENT-PROJECT/
 ### Step 1 — Clone Repository
 
 ```bash
-git clone https://github.com/your-username/your-repo-name
-cd your-repo-name
+git clone https://github.com/X-ImLucky-X/Toxic-Comment-Classification
+cd Toxic-Comment-Classification
 ```
 
 ### Step 2 — Create Virtual Environment
